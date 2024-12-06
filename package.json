@@ -19,6 +19,6 @@
   "author": "bubblesthedev",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.1"
+    "express": "^4.21.2"
   }
 }
